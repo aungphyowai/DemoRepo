@@ -1,10 +1,5 @@
 This is a file.
-<<<<<<< HEAD
 
 Hello!My members!I'm Aung Phyo Wai....Now,I'm Update....:D
-Check
-Datediff
-=======
-A new line.
-another new line
->>>>>>> 23478220eb479ac7c9a5d4449272c4b7b44ad3d9
+
+ALL is well....
