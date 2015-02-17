@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 This is b file.
+=======
+This is b file.
+This is new line again.
+welcome!
+>>>>>>> 23478220eb479ac7c9a5d4449272c4b7b44ad3d9
