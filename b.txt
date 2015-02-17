@@ -1,2 +1,3 @@
 This is b file.
 This is new line again.
+welcome!
